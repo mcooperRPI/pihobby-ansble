@@ -1,4 +1,3 @@
 # pihobby-ansble
 This is for all of my ansible automation playbooks
 
-This is also a test.
